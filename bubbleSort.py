@@ -10,3 +10,4 @@ def countSwaps(a):
                 a[i+1] = temp
                 swaps += 1
     return print("Array is sorted in {} swaps.\nFirst Element: {}\nLast Element: {}".format(swaps,a[0],a[-1]))
+g
